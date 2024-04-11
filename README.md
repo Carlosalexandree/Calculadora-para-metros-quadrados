@@ -37,4 +37,5 @@ Divirta-se calculando! 🤓📏
 
 #HTML #CSS #JavaScript #Calculadora #MetrosQuadrados #DesenvolvimentoWeb #Inovação
 
-![Imagem 11-04-2024 às 17 29](https://github.com/Carlosalexandree/Calculadora-para-metros-quadrados/assets/129911181/c91ecaec-e751-4a19-b031-1f7b01d07034)
+![Imagem 11-04-2024 às 19 39](https://github.com/Carlosalexandree/Calculadora-para-metros-quadrados/assets/129911181/cca80f3c-0597-498b-b3df-e535b6af9706)
+
